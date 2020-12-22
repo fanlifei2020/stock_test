@@ -2,8 +2,12 @@
 # coding: utf-8
 
 # In[10]:
+<<<<<<< HEAD
 #test
 #jhhhhdfef
+=======
+
+>>>>>>> a275f4db7c3268027795222734a6de8161ff73c4
 
 #%matplotlib inline
 import matplotlib.pyplot as plt
