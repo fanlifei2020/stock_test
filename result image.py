@@ -62,27 +62,6 @@ df_drop2['sum'] = df_drop2['profits'].cumsum()
 df_drop2
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
 
@@ -146,7 +125,6 @@ y = x*x
 plt.figure(figsize=(10,10),dpi=100)
 
 
-# In[55]:
 
 
 plt.xlabel('x')
@@ -158,94 +136,6 @@ fig = plt.gcf()
 fig.set_size_inches(20,10)
 #plt.xticks(np.arange(len(x),list("abcdefghij")))
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
