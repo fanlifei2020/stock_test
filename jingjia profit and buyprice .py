@@ -243,44 +243,5 @@ unique_strong_table.to_csv("unique_result_with_buy_price.csv")
 (5.88-5.72)/5.72 *100
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[21]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
